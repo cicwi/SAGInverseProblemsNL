@@ -1,0 +1,27 @@
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Tristan van Leeuwen"
+      lastname: "Website"
+      subtitle: "CWI"
+      categories: [Faculty] 
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Felix Lucka"
+      lastname: "Website"
+      subtitle: "CWI"
+      categories: [Faculty] 
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Yves van Gennip"
+      lastname: "Website"
+      subtitle: "TU Delft"
+      categories: [Faculty] 
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Cristobal Bertoglio"
+      lastname: "Website"
+      subtitle: "Groningen U."
+      categories: [Faculty] 

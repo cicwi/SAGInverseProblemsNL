@@ -1,8 +1,6 @@
     - path: https://drganghe.github.io/quarto-academic-website-template
       image: "/files/profiles/profile7.JPG"
-      title: "PI Name"
+      title: "Palina Salanevich"
       lastname: "Website"
-#      author: 
-      subtitle: "PI"
-#      date: "2024-03-12"
-      categories: [Director] 
+      subtitle: "Utrecht U."
+      categories: [Faculty] 
