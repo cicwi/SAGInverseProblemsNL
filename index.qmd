@@ -1,6 +1,6 @@
 ---
 title: "Dutch Inverse Problems Community"
-description-meta: "Quarto Academic Website Template adapted by Dr. Gang He"
+description-meta: "Website for the SAG on Inverse Problems"
 image: "files/images/placeholder4.JPG"
 page-navigation: false
 toc: false
@@ -69,7 +69,7 @@ listing:   # Comment the listing section and delete corresponding lines in the i
 
 In inverse problems, one tries to recover a quantity of interest from indirect, imperfect measurements. A classical example is given by Computed Tomography (CT), which reconstructs an image of the interior of a patient from its tomographic X-ray projections. Inverse problems occur in a wide range of applications in science, health care, and industry. The Special Activity Group (SAG) involves various fields of discipline, including mathematics, physics, earth sciences, radiology. The goal of the SAG is to provide a platform for the Dutch inverse problems community to meet up, discuss the latest developments in the field, and establish a network for collaboration and grant proposals.
 
-The SAG is funded in part by the [NDNS+ Cluster](https://ndns.nl)
+The SAG is funded in part by the [NDNS+ Cluster](https://ndns.nl).
 
 If you want to stay updated on our events, consider [subscribing to our mailing list](https://lists.cwi.nl/mailman/listinfo/inverse-problems-list), or keep an eye on the announcements on this page.
 

@@ -57,6 +57,17 @@ https://quarto.org/docs/authoring/includes.html
 <section id="summary" class="level2">
 <h2 class="anchored" data-anchor-id="summary">Summary</h2>
 <p>The 5th IMA Conference on Inverse Problems from Theory to Application takes place 8-10 September 2026 at Woburn House, Tavistock Square, London.</p>
+<p>The meeting brings together researchers working on the theoretical, numerical, and computational aspects of inverse problems, alongside those tackling challenging applications. This year includes a dedicated Big Data Day (joint with the IMA Conference on the Mathematical Challenges of Big Data), focusing on links between model-based methods and modern data-driven approaches (e.g.&nbsp;deep learning, generative models, neural operators, large-scale optimisation).</p>
+<p><strong>Topics of Interest</strong></p>
+<ul>
+<li>Machine Learning &amp; Data-Driven Methods: Deep learning for inverse problems, learned regularisation, neural operators, unrolled networks.</li>
+<li>Big Data, Statistics &amp; Optimisation: Large-scale inverse problems,</li>
+<li>Bayesian inference, uncertainty quantification, data assimilation, stochastic algorithms.</li>
+<li>Mathematical Theory: Analysis of inverse problems, stability, uniqueness, and regularisation theory.</li>
+<li>Imaging &amp; Applications: Mathematical and computational imaging, tomography, and wider applications in science, medicine, and engineering.</li>
+</ul>
+<p>Call for papers/posters: submit a 300-word abstract via <a href="https://my.ima.org.uk/">https://my.ima.org.uk/</a> by 31 May 2026.</p>
+<p>For further information see the attachment or <a href="https://ima.org.uk/28046/5th-ima-conference-on-inverse-problems-from-theory-to-application/">https://ima.org.uk/28046/5th-ima-conference-on-inverse-problems-from-theory-to-application/</a></p>
 
 
 </section>
@@ -65,7 +76,16 @@ https://quarto.org/docs/authoring/includes.html
   <category>news</category>
   <guid>https://cicwi.github.io/SAGInverseProblemsNL/posts/IMA2026/</guid>
   <pubDate>Tue, 24 Feb 2026 23:00:00 GMT</pubDate>
-  <media:content url="https://cicwi.github.io/SAGInverseProblemsNL/files/images/placeholder3.JPG" medium="image"/>
+  <media:content url="https://cdn.ima.org.uk/wp/wp-content/uploads/2026/02/historic-landmark-big-ben-at-palace-of-westminst-2026-01-08-22-16-04-utc-360x203.jpg" medium="image" type="image/jpeg"/>
+</item>
+<item>
+  <title>NDNS+ yearly meeting 2026</title>
+  <link>https://cicwi.github.io/SAGInverseProblemsNL/</link>
+  <description>Annual meeting of the NDNS+ cluster</description>
+  <category>news</category>
+  <guid>https://cicwi.github.io/SAGInverseProblemsNL/</guid>
+  <pubDate>Tue, 24 Feb 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://www.amsterdam-dynamics.nl/content/images/size/w960/2026/01/NDNSlogo.png" medium="image" type="image/png"/>
 </item>
 <item>
   <title>5th Dutch Inverse Problems Meeting</title>
@@ -124,15 +144,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://cicwi.github.io/SAGInverseProblemsNL/posts/IP2024/</guid>
   <pubDate>Sun, 20 Oct 2024 22:00:00 GMT</pubDate>
   <media:content url="https://cicwi.github.io/SAGInverseProblemsNL/files/images/placeholder2.JPG" medium="image"/>
-</item>
-<item>
-  <title>Quarto Academic Website Examples and Tips</title>
-  <link>https://cicwi.github.io/SAGInverseProblemsNL/</link>
-  <description>Examples and tips for Quarto Academic Website</description>
-  <category>news</category>
-  <guid>https://cicwi.github.io/SAGInverseProblemsNL/</guid>
-  <pubDate>Mon, 14 Oct 2024 22:00:00 GMT</pubDate>
-  <media:content url="https://cicwi.github.io/SAGInverseProblemsNL/files/images/placeholder1.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>3rd Dutch Inverse Problems Meeting</title>
@@ -220,68 +231,6 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://cicwi.github.io/SAGInverseProblemsNL/posts/IP2021/</guid>
   <pubDate>Wed, 24 Nov 2021 23:00:00 GMT</pubDate>
   <media:content url="https://cicwi.github.io/SAGInverseProblemsNL/files/images/placeholder2.JPG" medium="image"/>
-</item>
-<item>
-  <title>Can quantum-mechanical description of physical reality be considered complete?</title>
-  <dc:creator>Albert Einstein</dc:creator>
-  <dc:creator>Boris Podolsky</dc:creator>
-  <dc:creator>Nathan Rosen</dc:creator>
-  <link>https://cicwi.github.io/SAGInverseProblemsNL/posts/paper-title/</link>
-  <description><![CDATA[ 
-
-
-
-
-<!--Include academic icons or bottons-->
-<!-- 
-Load Academicons v1: https://jpswalsh.github.io/academicons/
--->
-<p><link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css"></p>
-<p><link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css"></p>
-<!---
-The following code are needed to show dimension citation and altmetrics.
-https://api.altmetric.com/embeds.html
-https://badge.dimensions.ai/
---->
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script>
-<script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-<script type="text/javascript" src="//cdn.plu.mx/widget-popup.js"></script>
-<section id="abstract" class="level2">
-<h2 class="anchored" data-anchor-id="abstract">Abstract</h2>
-<p>In a complete theory there is an element corresponding to each element of reality. A sufficient condition for the reality of a physical quantity is the possibility of predicting it with certainty, without disturbing the system. In quantum mechanics in the case of two physical quantities described by non-commuting operators, the knowledge of one precludes the knowledge of the other. Then either (1) the description of reality given by the wave function in quantum mechanics is not complete or (2) these two quantities cannot have simultaneous reality. Consideration of the problem of making predictions concerning a system on the basis of measurements made on another system that had previously interacted with it leads to the result that if (1) is false then (2) is also false. One is thus led to conclude that the description of reality as given by a wave function is not complete.</p>
-</section>
-<section id="links" class="level2">
-<h2 class="anchored" data-anchor-id="links">Links</h2>
-<p>Published <a href="https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777">paper</a></p>
-<script type="text/javascript" src="https://d1bxh8uas1mnw7.cloudfront.net/assets/embed.js"></script><div class="altmetric-embed" data-badge-popover="right" data-badge-type="donut" data-doi="10.1103/PhysRev.47.777"></div>
-
-<span class="__dimensions_badge_embed__" data-doi="10.1103/PhysRev.47.777" data-hide-zero-citations="true" data-style="small_circle"></span><script async="" src="https://badge.dimensions.ai/badge.js" charset="utf-8"></script>
-
-
-</section>
-
-<div id="quarto-appendix" class="default"><section class="quarto-appendix-contents" id="quarto-citation"><h2 class="anchored quarto-appendix-heading">Citation</h2><div><div class="quarto-appendix-secondary-label">BibTeX citation:</div><pre class="sourceCode code-with-copy quarto-appendix-bibtex"><code class="sourceCode bibtex">@article{einstein1935,
-  author = {Einstein, Albert and Podolsky, Boris and Rosen, Nathan},
-  title = {Can Quantum-Mechanical Description of Physical Reality Be
-    Considered Complete?},
-  journal = {Physical Review},
-  volume = {47},
-  number = {7938},
-  pages = {777-80},
-  date = {1935-05-15},
-  url = {https://journals.aps.org/pr/pdf/10.1103/PhysRev.47.777},
-  doi = {10.1103/PhysRev.47.777},
-  langid = {en}
-}
-</code></pre><div class="quarto-appendix-secondary-label">For attribution, please cite this work as:</div><div id="ref-einstein1935" class="csl-entry quarto-appendix-citeas">
-Einstein, Albert, Boris Podolsky, and Nathan Rosen. 1935. <span>“Can
-Quantum-Mechanical Description of Physical Reality Be Considered
-Complete?”</span> <em>Physical Review</em> 47 (7938): 777–80. <a href="https://doi.org/10.1103/PhysRev.47.777">https://doi.org/10.1103/PhysRev.47.777</a>.
-</div></div></section></div> ]]></description>
-  <category>paper</category>
-  <guid>https://cicwi.github.io/SAGInverseProblemsNL/posts/paper-title/</guid>
-  <pubDate>Tue, 14 May 1935 23:00:00 GMT</pubDate>
-  <media:content url="https://cicwi.github.io/SAGInverseProblemsNL/posts/paper-title/featured.jpg" medium="image" type="image/jpeg"/>
 </item>
 </channel>
 </rss>

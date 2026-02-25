@@ -1,9 +1,9 @@
 
-    - path: https://drganghe.github.io/quarto-academic-site-examples.html
-      image: "/files/images/placeholder1.jpg"
-      title: "Quarto Academic Website Examples and Tips"
-      author: "Dr. Gang He"
-      description: "Examples and tips for Quarto Academic Website"
-      date: "2024-10-15"
+    - path: https://www.amsterdam-dynamics.nl/2026-ndns-yearly-meeting/
+      image: "https://www.amsterdam-dynamics.nl/content/images/size/w960/2026/01/NDNSlogo.png"
+      title: "NDNS+ yearly meeting 2026"
+      author: "T. van Leeuwen"
+      description: "Annual meeting of the NDNS+ cluster"
+      date: "2026-02-25"
       categories: [news] 
 

@@ -4,11 +4,10 @@ description: "5th IMA Conference on Inverse Problems from Theory to Application"
 author: "News"
 date: "2026-02-25"
 categories: [news]
-image: "/files/images/placeholder3.JPG"
+image: "https://cdn.ima.org.uk/wp/wp-content/uploads/2026/02/historic-landmark-big-ben-at-palace-of-westminst-2026-01-08-22-16-04-utc-360x203.jpg"
 #css: /custom.css
 #draft: true
 ---
-
 
 ## Summary
 
@@ -24,6 +23,6 @@ The meeting brings together researchers working on the theoretical, numerical, a
 * Mathematical Theory: Analysis of inverse problems, stability, uniqueness, and regularisation theory. 
 * Imaging & Applications: Mathematical and computational imaging, tomography, and wider applications in science, medicine, and engineering. 
  
-Call for papers/posters: submit a 300-word abstract via https://my.ima.org.uk/ by 31 May 2026.
+Call for papers/posters: submit a 300-word abstract via [https://my.ima.org.uk/](https://my.ima.org.uk/) by 31 May 2026.
 
-For further information see the attachment or https://ima.org.uk/28046/5th-ima-conference-on-inverse-problems-from-theory-to-application/
+For further information see the attachment or [https://ima.org.uk/28046/5th-ima-conference-on-inverse-problems-from-theory-to-application/](https://ima.org.uk/28046/5th-ima-conference-on-inverse-problems-from-theory-to-application/)
