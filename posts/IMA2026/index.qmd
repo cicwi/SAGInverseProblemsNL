@@ -1,0 +1,29 @@
+---
+title: "5th IMA Conference on Inverse Problems"
+description: "5th IMA Conference on Inverse Problems from Theory to Application"
+author: "News"
+date: "2026-02-25"
+categories: [news]
+image: "/files/images/placeholder3.JPG"
+#css: /custom.css
+#draft: true
+---
+
+
+## Summary
+
+The 5th IMA Conference on Inverse Problems from Theory to Application takes place 8-10 September 2026 at Woburn House, Tavistock Square, London.
+ 
+The meeting brings together researchers working on the theoretical, numerical, and computational aspects of inverse problems, alongside those tackling challenging applications. This year includes a dedicated Big Data Day (joint with the IMA Conference on the Mathematical Challenges of Big Data), focusing on links between model-based methods and modern data-driven approaches (e.g. deep learning, generative models, neural operators, large-scale optimisation).
+
+**Topics of Interest**
+
+* Machine Learning & Data-Driven Methods: Deep learning for inverse problems, learned regularisation, neural operators, unrolled networks. 
+* Big Data, Statistics & Optimisation: Large-scale inverse problems, 
+* Bayesian inference, uncertainty quantification, data assimilation, stochastic algorithms. 
+* Mathematical Theory: Analysis of inverse problems, stability, uniqueness, and regularisation theory. 
+* Imaging & Applications: Mathematical and computational imaging, tomography, and wider applications in science, medicine, and engineering. 
+ 
+Call for papers/posters: submit a 300-word abstract via https://my.ima.org.uk/ by 31 May 2026.
+
+For further information see the attachment or https://ima.org.uk/28046/5th-ima-conference-on-inverse-problems-from-theory-to-application/

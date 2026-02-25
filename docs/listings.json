@@ -2,8 +2,13 @@
   {
     "listing": "/posts.html",
     "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
+      "/posts/IP2026/index.html",
+      "/posts/IMA2026/index.html",
+      "/posts/IP2025/index.html",
+      "/posts/IP2024/index.html",
+      "/posts/IP2023/index.html",
+      "/posts/IP2022/index.html",
+      "/posts/IP2021/index.html",
       "/posts/paper-title/index.html"
     ]
   },
@@ -14,8 +19,13 @@
   {
     "listing": "/index.html",
     "items": [
-      "/posts/event-title/index.html",
-      "/posts/news-title/index.html",
+      "/posts/IP2026/index.html",
+      "/posts/IMA2026/index.html",
+      "/posts/IP2025/index.html",
+      "/posts/IP2024/index.html",
+      "/posts/IP2023/index.html",
+      "/posts/IP2022/index.html",
+      "/posts/IP2021/index.html",
       "/posts/paper-title/index.html"
     ]
   },

@@ -48,8 +48,10 @@ website:
           href: posts.qmd#category=news
         - text: Events
           href: posts.qmd#category=event 
-        - text: About
+        - text: People
           href: people.qmd
+        - text: Links
+          href: links.qmd
       # - icon: rss
       #   href: posts.xml
       #   target: _blank

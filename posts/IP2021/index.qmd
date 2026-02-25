@@ -1,9 +1,9 @@
 ---
-title: "Event item"
-description: "About Event item."
+title: "1st Dutch Inverse Problems Meeting"
+description: "First Dutch Inverse Problems Meeting"
 author: "Event"
-date: "2024-09-03"
-categories: [event, presentation]
+date: "2021-11-25"
+categories: [event]
 image: "/files/images/placeholder2.JPG"
 #css: /custom.css
 #draft: true
