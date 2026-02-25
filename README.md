@@ -8,11 +8,12 @@ You can post events and announcements by sending an email to [Tristan van Leeuwe
 
 For faster processing, format your announcement either as an external link:
 
-> - path: https://my-external-link.com
->   image: "https://my-images/image.png"
->   title: "My fabulous event"
->   author: "Me, myself, and I"
->   description: "This is super interesting for everyone, please join!"
->   date: "YYY-MM-DD"
->   categories: [news] 
-
+"""
+- path: https://my-external-link.com
+  image: "https://my-images/image.png"
+  title: "My fabulous event"
+  author: "Me, myself, and I"
+  description: "This is super interesting for everyone, please join!"
+  date: "YYY-MM-DD"
+  categories: [news] 
+"""
