@@ -17,3 +17,22 @@ For faster processing, format your announcement either as an external link:
   date: "YYY-MM-DD"
   categories: [news] 
 ```
+
+or as a standalone page (using basic markdown formatting)
+
+```
+---
+title: "My fabulous event"
+description: "My fabulous event"
+author: "Me, myself, and I"
+date: "YYY-MM-DD"
+categories: [news]
+image: "https://my-images/image.png"
+---
+
+## Header
+
+This event will bring together people. 
+
+
+```
