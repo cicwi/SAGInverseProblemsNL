@@ -4,13 +4,12 @@ description: "Sixth Dutch Inverse Problems Meeting"
 author: "Event"
 date: "2026-10-30"
 categories: [event]
-image: "/files/images/placeholder2.JPG"
+image: "https://www.cwi.nl/images/44062/CWI_Algemeen_20_10_04-162_buitenk.5f68be81.fill-1200x630.jpg"
 #css: /custom.css
 #draft: true
 ---
 
-[![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
-
+The meeting will take place on 30-31 October 2026 at CWI in Amsterdam. More details will follow.
 
 <!--Include social share buttons-->
 

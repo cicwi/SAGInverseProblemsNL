@@ -25,7 +25,7 @@
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://cicwi.github.io/SAGInverseProblemsNL/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
+<p>The meeting will take place on 30-31 October 2026 at CWI in Amsterdam. More details will follow.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -43,7 +43,7 @@ https://quarto.org/docs/authoring/includes.html
   <category>event</category>
   <guid>https://cicwi.github.io/SAGInverseProblemsNL/posts/IP2026/</guid>
   <pubDate>Thu, 29 Oct 2026 23:00:00 GMT</pubDate>
-  <media:content url="https://cicwi.github.io/SAGInverseProblemsNL/files/images/placeholder2.JPG" medium="image"/>
+  <media:content url="https://www.cwi.nl/images/44062/CWI_Algemeen_20_10_04-162_buitenk.5f68be81.fill-1200x630.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>5th IMA Conference on Inverse Problems</title>
@@ -152,7 +152,33 @@ https://quarto.org/docs/authoring/includes.html
 
 
 
-<p><a href="https://drganghe.github.io/quarto-academic-website-template/"><img src="https://cicwi.github.io/SAGInverseProblemsNL/files/images/placeholder2.JPG" class="img-fluid" style="width:90.0%"></a></p>
+<p>The fourth annual meeting of the Dutch Inverse Problems Community took take place on 31 October and 1 November 2024 at the Aula Congrescentrum of the Technische Universiteit Delft in the Netherlands.</p>
+<section id="program" class="level2">
+<h2 class="anchored" data-anchor-id="program">Program</h2>
+<section id="thursday" class="level3">
+<h3 class="anchored" data-anchor-id="thursday">Thursday</h3>
+<p><strong>10:00 - 12:30: Master class: Uncertainty Quantification in Machine Learning by Matias Valdenegro-Toro (RUG)</strong></p>
+<p>What if we train a model to classify dogs and cats, but it is later tested with an image of a human? Generally the model will output either dog or cat, and has no ability to signal that the image contains no class that it can recognize. Similarly for systems like ChatGPT, they are not able to convey their own uncertainty, which means they cannot tell the user the confidence on their answer.</p>
+<p>This is because classical neural networks do not contain ways to estimate their own uncertainty (so called epistemic uncertainty), and this has practical consequences for the use of these models, like safety when cooperating with humans, autonomous systems like robots, computer vision systems, healthcare applications, and other uses that require reliable uncertainty quantification estimates.</p>
+<p>In this short course we will cover the basic concepts uncertainty quantification, how to train machine learning models with uncertainty, Bayesian neural networks, perform out of distribution detection, how to evaluate them, and related benchmarks and evaluation metrics. This field combines concepts from Statistics into Machine Learning models, and the course will cover methods from the state of the art, but only requiring basic background in Machine Learning.</p>
+</section>
+<section id="friday" class="level3">
+<h3 class="anchored" data-anchor-id="friday">Friday</h3>
+<p><strong>09:30 - 10:30: Keynote lecture: Scientific Machine Learning for partially observed dynamical systems by Kerstin Bunte (RUG)</strong></p>
+<p>Nowadays, most successful machine learning (ML) techniques for the analysis of complex interdisciplinary data use significant amounts of measurements as input to a statistical system. The domain expert knowledge is often only used in data preprocessing. The subsequently trained technique appears as a “black box”, which is difficult to interpret and rarely allows insight into the underlying natural process. Especially in critical domains such as medicine and engineering, the analysis of dynamic data in the form of sequences and time series is often difficult. Due to natural or cost limitations and ethical considerations data is often irregularly and sparsely sampled and the underlying dynamic system is complex. Therefore, domain experts currently enter a time-consuming and laborious cycle of mechanistic model construction and simulation, often without direct use of the experimental data or the task at hand. We now combine the predictive power of ML and the explanatory power of mechanistic models. Therefore we perform learning in the space of dynamic models that represent the complex underlying natural processes, with potentially very few and limited measurements. We use principles of dimensionality reduction, such as subspace learning, to determine relevant areas in the parameter space of the underlying model as a first step to achieve task-driven model reduction. We furthermore incorporate identifiability analysis for informed posterior construction to improve learning with ill-posed systems caused by data limitations. Findings indicate the possibility of an alternative handling of epistemic uncertainties for scientific machine learning techniques applicable for all linear and classes of non-linear mechanistic models based on Lie symmetries.</p>
+<p>joint work of: Bunte, Kerstin; Tino, Peter; Oostwal, Elisa; Norden, Janis; Chappell, Michael; Smith, Dave</p>
+<p><strong>11:00 - 11:30: An overview of time-frequency and time-scale structured measurements in phase retrieval by Francesca Bartolucci (TU Delft)</strong></p>
+<p>We explore the problem of recovering a signal when only the magnitudes of a time-frequency or time-scale representation of the signal are known. From the perspective of inverse problems, answering the questions of uniqueness and stability is essential to theoretically guarantee meaningful reconstruction. In this talk, we present old and new results on these questions and conclude by discussing some open challenges.</p>
+<p><strong>11:30 - 12:00: Mathematical Models for Ultrasound Contrast Imaging with Microbubbles by Vanja Nikolic (Radboud U.)</strong></p>
+<p>Ultrasound contrast imaging is a specialized imaging technique that applies microbubble contrast agents to traditional medical sonography. Gas-filled microbubbles are injected into the body, where they interact nonlinearly with ultrasound waves by contracting and expanding. In this talk, we will discuss the approach to modeling ultrasound propagation through bubbly media based on employing a nonlinear wave equation for the acoustic pressure coupled to a nonlinear ODE for microbubble dynamics via source terms. We will then provide an overview of a theoretical framework for determining the well-posedness of such systems. Numerical experiments will illustrate both single-microbubble dynamics and the interaction of microbubbles with ultrasound waves. The talk is based on joint work with Teresa Rauscher (The University of Klagenfurt, Austria).</p>
+<p><strong>13:30 - 14:00: Imaging algorithms for low-field MRI by Martin van Gijzen (TU Delft)</strong></p>
+<p>Hydrocephalus is a potentially fatal condition that affects thousands of children each year in Uganda alone. For surgical intervention and follow-up treatment imaging of the brain is needed. The preferred technique for this is MRI. MRI systems, however, are expensive and out of reach for the vast majority of the population in Uganda. In order to provide a sustainable diagnostic tool an interdisciplinary team of researchers from the Netherlands, the USA, and Uganda is developing an inexpensive and easy-to-use MRI system of sufficient quality to diagnose hydrocephalus. Since the signals obtained with the scanner are heavily polluted by noise, advanced mathematical techniques are needed to compute images of sufficient quality. The presentation will first give an overview of the project and will then discuss some of the mathematical techniques that can be used to improve the image quality.</p>
+<p><strong>14:00 - 14:30: Exploring Out-of-distribution Detection for Sparse-view Computed Tomography with Diffusion Models by Ezgi Demircan Türeyen (CWI)</strong></p>
+<p>Recent works demonstrate the effectiveness of employing diffusion models as unsupervised solvers for inverse imaging problems. Sparse-view computed tomography (CT) has greatly benefited from these advancements by offering better generalizability to unknown measurement processes, as these models are independent of measurement parameters. However, these benefits come at the cost of hallucinations, especially when confronted with out-of-distribution (OOD) data. Therefore, there is a driving need to study OOD detection for tomographic reconstruction in both clinical and industrial applications, in order to ensure reliability and enable inspection. Fortunately, once a diffusion model is trained to capture the distribution of interest, it can also function as an OOD detector that assesses OOD-ness based on reconstruction error. Nonetheless, since in sparse-view tomography the input is incomplete, the concept of reconstruction error needs to be redefined. In this talk, we conceptually explore the feasibility of posing sparse-view CT as a downstream task within a reconstruction-based OOD detection scheme. We delve into the intricacies involved in augmenting tomographic reconstruction machinery with an OOD detector, with both employing the same diffusion model. Our proof-of-concept experiments on MNIST dataset showcase various failure and success scenarios to clearly understand the limitations and potential. Furthermore, we introduce a novel approach to measuring reconstruction error, which improves the robustness of the OOD detector and suggests a promising direction for research in sparse-view CT.</p>
+<p><strong>15:00 - 15:30: Inverse problem solving in medical imaging by deep neural networks by Qian Tao (TU Delft)</strong></p>
+<p>Modern medical imaging (MRI, CT, etc.) involves solving inverse problems, i.e.&nbsp;reconstructing patient-specific medical images from raw physics acquistions. Solving ill-posed inverse problems becomes interesting as it enables faster imaging with limited acquisition, implying higher clinical throughput and improved patient comfort. In this talk, we will show how modern deep learning can help solve inverse problems in medical imaging, and show promising applications in clinical practice.</p>
+<p><strong>15:30 - 16:00: Inverse problems for the energy transition – complexity, uncertainty quantification &amp; machine learning by Ivan Vasconcelos (Shearwater GeoServices)</strong></p>
+<p>As the current push for a global energy transition continues to gather momentum, so does the demand for reliable, accurate and time-sensitive information on the subsurface – from the detailed imaging of underground geologic structures, to the time-lapse monitoring of phenomena such as subsurface fluid flow and stress build-up towards mitigation of earthquake risk. Going from oil &amp; gas to energy transition applications such as Carbon Capture &amp; Storage (CCS) and offshore windfarm geotechnical assessment, seismic-based imaging and monitoring remains the geophysical tool of choice. In this talk, we will discuss the different subsurface information needs of the different applications from O&amp;G to the energy transition, and translate them in terms of what is required of seismic inverse problem in each case. This will lead the discussion toward three key challenges to our field, namely: a) how to describe and resolve the increasing complexity required from subsurface models, b) the key role of uncertainty quantification, particularly in the context of the energy transition, and c) the challenges and opportunities for up-and-coming machine learning approaches to tackle otherwise potentially unsurmountable challenges in seismic imaging and monitoring.</p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -165,6 +191,8 @@ https://quarto.org/docs/authoring/includes.html
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
+</section>
+</section>
 
  ]]></description>
   <category>event</category>
