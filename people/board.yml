@@ -6,13 +6,6 @@
       categories: [Faculty] 
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "https://www.cwi.nl/intranet/faces/3100.jpg"
-      title: "Felix Lucka"
-      lastname: "Website"
-      subtitle: "CWI"
-      categories: [Faculty] 
-
-    - path: https://drganghe.github.io/quarto-academic-website-template
       image: "/files/profiles/profile7.JPG"
       title: "Yves van Gennip"
       lastname: "Website"
@@ -24,4 +17,11 @@
       title: "Cristobal Bertoglio"
       lastname: "Website"
       subtitle: "Groningen U."
+      categories: [Faculty] 
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Christoph Brune"
+      lastname: "Website"
+      subtitle: "U. Twente"
       categories: [Faculty] 

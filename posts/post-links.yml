@@ -7,3 +7,10 @@
       date: "2026-02-25"
       categories: [news] 
 
+    - path: https://aimath.nl/index.php/2025/08/27/5th-aim-workshop/
+      image: "https://aimath.nl/wp-content/uploads/2024/09/AIM-logo-white.png"
+      title: "AIM workshop 2026"
+      author: "T. van Leeuwen"
+      description: "Annual workshop of the AIM initiative"
+      date: "2026-03-06"
+      categories: [news] 

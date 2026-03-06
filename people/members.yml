@@ -2,18 +2,75 @@
       image: "/files/profiles/profile7.JPG"
       title: "Palina Salanevich"
       lastname: "Website"
-      subtitle: "Utrecht U."
+      subtitle: "UU"
       categories: [Faculty] 
 
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Jeroen Kalkman"
+      lastname: "Website"
+      subtitle: "TU Delft"
+      categories: [Faculty] 
 
-# Jeroen Kalkman (TU Delft, associate prof, biomedical imaging)
-# Ezgi Demircan Türeyen (CWI, postdoc, computational imaging)
-# Alessandro Sbrizzi (UMC Utrecht, associate prof, medical imaging)
-# Chris Stolk (UvA, associate prof, applied analysis)
-# Jacob Seifert (U Utrecht, postdoc, optics)
-# Eric Verschuur (TU Delft, associate prof, seismic imaging)
-# Koen van Dongen (TU Delft, associate prof, ultrasound imaging)
-# Felix Lucka (CWI, senior researcher, tomographic imaging)
-# Palina Salanevich (U Utrecht, assistant prof, harmonic analysis)
-# Hanne Kekkonen (TU Delft, assistant prof, bayesian inverse problems)
-# José Iglesias Martinez (TU Twente
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Ezgi Demircan Türeyen"
+      lastname: "Website"
+      subtitle: "CWI"
+      categories: [Faculty] 
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Alessandro Sbrizzi"
+      lastname: "Website"
+      subtitle: "UMC Utrecht"
+      categories: [Faculty] 
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Chris Stolk"
+      lastname: "Website"
+      subtitle: "UvA"
+      categories: [Faculty] 
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Jacob Seifert"
+      lastname: "Website"
+      subtitle: "UU"
+      categories: [Faculty]
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Eric Verschuur"
+      lastname: "Website"
+      subtitle: "TU Delft"
+      categories: [Faculty]
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Koen van Dongen"
+      lastname: "Website"
+      subtitle: "TU Delft"
+      categories: [Faculty]
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "Hanne Kekkonen"
+      lastname: "Website"
+      subtitle: "TU Delft"
+      categories: [Faculty]
+
+     - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "/files/profiles/profile7.JPG"
+      title: "José Iglesias Martinez"
+      lastname: "Website"
+      subtitle: "U. Twente"
+      categories: [Faculty]
+
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "https://www.cwi.nl/intranet/faces/3100.jpg"
+      title: "Felix Lucka"
+      lastname: "Website"
+      subtitle: "CWI"
+      categories: [Faculty] 
