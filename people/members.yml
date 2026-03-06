@@ -1,68 +1,68 @@
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=56777&t="
       title: "Palina Salanevich"
       lastname: "Website"
       subtitle: "UU"
       categories: [Faculty] 
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://t.e7096c671.entry.domains/YvA3wcHB_8qKEz7mpYjg-dxJkHo=/0x0:1280x1280/301x301/filters:strip_exif()/https%3A%2F%2Ffilelist.tudelft.nl%2FTNW%2FAfdelingen%2FImPhys%2FPhotos%2FPeople%2Fscientists_standing%2FJeroen%2520Kalkman_MG_7707.jpg%3Fhash%3D3cc949a23d"
       title: "Jeroen Kalkman"
       lastname: "Website"
       subtitle: "TU Delft"
       categories: [Faculty] 
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://www.cwi.nl/intranet/faces/3734.jpg"
       title: "Ezgi Demircan Türeyen"
       lastname: "Website"
       subtitle: "CWI"
       categories: [Faculty] 
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://research.umcutrecht.nl/custom/themes/umcu/nrdq-theme/storage/40b497b1-c10d-4f20-bf47-f231cc7747f6/files/MDAyOWM3NmYz/sbrizzi.jpeg"
       title: "Alessandro Sbrizzi"
       lastname: "Website"
       subtitle: "UMC Utrecht"
       categories: [Faculty] 
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "data:image/jpeg;base64,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"
       title: "Chris Stolk"
       lastname: "Website"
       subtitle: "UvA"
       categories: [Faculty] 
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://www.uu.nl/medewerkers/RestApi/Public/GetImage?Employee=49465&t="
       title: "Jacob Seifert"
       lastname: "Website"
       subtitle: "UU"
       categories: [Faculty]
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://t.e7096c671.entry.domains/aznWeEMkxj9xhoVQSYiPSNULK7c=/278x371/filters:strip_exif()/https%3A%2F%2Ffilelist.tudelft.nl%2FPersonen%2Fg4w7t.jpg%3Fhash%3D3c04cf58c5"
       title: "Eric Verschuur"
       lastname: "Website"
       subtitle: "TU Delft"
       categories: [Faculty]
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://t.e7096c671.entry.domains/Y5VsXa1fFGO9aZj0v3aQiBofnw4=/301x301/filters:strip_exif()/https%3A%2F%2Ffilelist.tudelft.nl%2FTNW%2FAfdelingen%2FImPhys%2FPhotos%2FPeople%2Fsquare_background_white%2FKoen%2520van%2520Dongen_MG_6085.jpg%3Fhash%3De9ffce50e5"
       title: "Koen van Dongen"
       lastname: "Website"
       subtitle: "TU Delft"
       categories: [Faculty]
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://t.e7096c671.entry.domains/3XVMLLhocZa8p-UVS88OKU9b8TU=/278x371/filters:strip_exif()/https%3A%2F%2Ffilelist.tudelft.nl%2FPersonen%2Fv1x3s4.jpg%3Fhash%3D951726594f"
       title: "Hanne Kekkonen"
       lastname: "Website"
       subtitle: "TU Delft"
       categories: [Faculty]
 
-     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+    - path: https://drganghe.github.io/quarto-academic-website-template
+      image: "https://personen.utwente.nl/.wh/ea/uc/i4637e105010359d2f2010bd78b0387c8004a1ef996700c016340014001804100000000/people-pages-14-05-47-e-1000.jpg"
       title: "José Iglesias Martinez"
       lastname: "Website"
       subtitle: "U. Twente"

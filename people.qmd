@@ -41,6 +41,7 @@ format:
     link-external-newwindow: true
 ---
 
+The Dutch Inverse Problems meetings have been organised since 2021, and in 2025 we founded a NDNS+ Special Acitivity Group. The current board consists of the applicants of the NDNS+ SAG proposal. If you are interested in becoming a member, please contact Tristan van Leeuwen.
 
 ## Board
 

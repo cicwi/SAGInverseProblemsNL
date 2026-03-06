@@ -6,21 +6,21 @@
       categories: [Faculty] 
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://research.tudelft.nl/assets/no-portrait-473c6d005990baa1f418d9c668dcd4ec.png"
       title: "Yves van Gennip"
       lastname: "Website"
       subtitle: "TU Delft"
       categories: [Faculty] 
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://www.rug.nl/staff/c.a.bertoglio/photo.png?unique=1567593195493.jpg"
       title: "Cristobal Bertoglio"
       lastname: "Website"
       subtitle: "Groningen U."
       categories: [Faculty] 
 
     - path: https://drganghe.github.io/quarto-academic-website-template
-      image: "/files/profiles/profile7.JPG"
+      image: "https://personen.utwente.nl/.wh/ea/uc/idd264a8b01034626f101b0147203918c76774fe360b20c016340014001804100000000/cbrune.jpg"
       title: "Christoph Brune"
       lastname: "Website"
       subtitle: "U. Twente"
