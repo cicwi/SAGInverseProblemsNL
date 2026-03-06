@@ -46,6 +46,15 @@ https://quarto.org/docs/authoring/includes.html
   <media:content url="https://www.cwi.nl/images/44062/CWI_Algemeen_20_10_04-162_buitenk.5f68be81.fill-1200x630.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
+  <title>AIM workshop 2026</title>
+  <link>https://cicwi.github.io/SAGInverseProblemsNL/</link>
+  <description>Annual workshop of the AIM initiative</description>
+  <category>news</category>
+  <guid>https://cicwi.github.io/SAGInverseProblemsNL/</guid>
+  <pubDate>Thu, 05 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://aimath.nl/wp-content/uploads/2024/04/AIM-logo-SVG-test-2.png" medium="image" type="image/png"/>
+</item>
+<item>
   <title>5th IMA Conference on Inverse Problems</title>
   <dc:creator>News </dc:creator>
   <link>https://cicwi.github.io/SAGInverseProblemsNL/posts/IMA2026/</link>
