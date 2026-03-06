@@ -6,7 +6,7 @@ Forked from https://github.com/drganghe/quarto-academic-website-template, based 
 
 You can post events and announcements by sending an email to [Tristan van Leeuwen](mailto:t.van.leeuwen@cwi.nl). 
 
-For faster processing, format your announcement either as an external link:
+For faster processing, format your announcement either as an external link in `posts/post-links.yml`:
 
 ```
 - path: https://my-external-link.com
@@ -18,7 +18,7 @@ For faster processing, format your announcement either as an external link:
   categories: [news] 
 ```
 
-or as a standalone page (using basic markdown formatting)
+or as a standalone page (using basic markdown formatting) in `posts/EVENTYY/index.md`
 
 ```
 ---
