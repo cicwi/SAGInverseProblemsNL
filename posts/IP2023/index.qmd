@@ -9,8 +9,73 @@ image: "/files/images/placeholder2.JPG"
 #draft: true
 ---
 
-[![](/files/images/placeholder2.JPG){width="90%"}](https://drganghe.github.io/quarto-academic-website-template/)
+The third annual meeting of the Dutch Inverse Problems Community took place on 12-13 October 2023 at the Feithhuis in Groningen.
 
+## Program
+
+### Thursday
+
+**10:00 - 12:30: Master class on Formal Results in Explainable Machine Learning by Tim van Erven (UvA)**
+
+Since most machine learning systems are not inherently interpretable, explainable machine learning tries to generate explanations that communicate relevant aspects of their internal workings. This is a
+relatively young subfield, which is generating a lot of excitement, but it is proving very difficult to lay down proper foundations: What is a good explanation? When can we trust explanations? Most of the work in this area is based on empirical evaluation, but recently the first formal mathematical results have started to appear.
+
+In this master class, I will introduce the topic, and then highlight several formal
+results of interest.
+
+**14:00 - 16:30: Masterclass on Model Order Reduction in Data Assimilation by Karen Veroy-Grepl (TU/e)**
+
+The use of model order reduction techniques in combination with data assimilation methods for estimating the state of systems has been of great interest in recent years. In this lecture, we discuss some of our recent work in this area, focusing on three topics. In the first part, we focus on the ensemble Kalman method (EnKM) [2], an iterative Monte Carlo method for the solution of inverse problems. We show how model order reduction can be combined with the EnKM to greatly accelerate the EnKM solution of asynchronous data assimilation problems. In addition, we experimentally study the latter’s performance with respect to different levels of noise and surrogate model error. Such numerical experiments, e.g., involving unknown distributed parameters in two or more spatial dimensions and testing several inverse problem hyper-parameters, can be very expensive and are (here) enabled only by the computational efficiency of the surrogate models. In the second part, we focus on methods such as the multi-fidelity ensemble Kalman filter (MFEnKF) [3] and the multi-level ensemble Kalman filter (MLEnKF) [1] for the solution of synchronous data assimilation problems. For these methods, the construction of low-fidelity models in the offline stage leads to a trade-off between accuracy and computational cost of the approximate models. In our work, we investigate the use of adaptive reduced-basis techniques in which the approximation space is modified (but not retrained) online based on the information extracted from the full-order solutions. This has the potential to simultaneously ensure good accuracy and low cost for the employed models and thus improve the performance of the methods. Finally, if time permits we will turn to Bayesian inversion, and consider some deterministic approaches for accounting for model error (e.g., resulting from the use of reduced order models) in inverse problems with additive Gaussian observation noise, where the parameter-to-observable map is the composition of a possibly nonlinear parameter-to-state map or ‘model’ and a linear state-to-observable map or ‘observation operator’.
+
+[1] A. Chernov, H. Hoel, K. J. Law, F. Nobile, and R. Tempone. Multilevel ensemble kalman filtering for spatio-temporal processes. Numerische Mathematik, 147(1), 2021.
+
+[2] M. A. Iglesias, K. J. H. Law, and A. M. Stuart. Ensemble kalman methods for inverse problems. Inverse Problems, 29, Mar 2013.
+
+[3] A. A. Popov, C. Mou, A. Sandu, and T. Iliescu. A multifidelity ensemble kalman filter with reduced order control variates. SIAM Journal on Scientific Computing, 43(2), 2021.
+
+### Thursday
+
+**09.30 - 10.30: Keynote lecture by Carola Bibiane-Schönlieb (Cambridge University**
+
+Inverse problems are about the reconstruction of an unknown physical quantity from indirect measurements. They appear in a variety of places, from medical imaging, for instance MRI or CT, to remote sensing, for instance radar, to material sciences and molecular biology, for instance electron microscopy. Here, inverse problems is a tool for looking inside specimen, resolving structures beyond the scale visible to the naked eye, and to quantify them. It is a mean for diagnosis, prediction and discovery.
+
+Most inverse problems of interest are ill-posed and require appropriate mathematical treatment for recovering meaningful solutions. Classically, such approaches are derived almost conclusively in a knowledge driven manner, constituting handcrafted mathematical models. Examples include variational regularization methods with Tikhonov regularization, the total variation and several sparsity-promoting regularizers such as the L1 norm of Wavelet coefficients of the solution.
+
+While such handcrafted approaches deliver mathematically rigorous and computationally robust solutions to inverse problems, they are also limited by our ability to model solution properties accurately and to realize these approaches in a computationally efficient manner.
+
+Recently, a new paradigm has been introduced to the regularization of inverse problems, which derives solutions to inverse problems in a data driven way. Here, the inversion approach is not mathematically modeled in the classical sense, but modeled by highly over-parametrized models, typically deep neural networks, that are adapted to the inverse problems at hand by appropriately selected training data. Current approaches that follow this new paradigm distinguish themselves through solution accuracies paired with computational efficiency that were previously unconceivable.
+
+In this lecture I will give an introduction to this new data-driven paradigm for inverse problems. Presented methods include data-driven variational models and plug-and-play approaches, learned iterative schemes aka learned unrolling, and learned post-processing. Throughout presenting these methodologies, we will discuss their theoretical properties and provide numerical examples for image denoising, deconvolution and computed tomography reconstruction. The lecture will finish with a discussion of open problems and future perspectives.
+
+**11.00 - 11.30: Edge preserving random tree Besov priors by Hanne Kekkonen (Delft University of Technology)**
+
+The Bayesian approach to inverse problems allows us to encode our a priori knowledge of the unknown function of interest in the form of a probability distribution. Gaussian process priors are often used in practice due to their fast computational properties. However, the resulting posterior estimates tend to be too smooth for functions in imaging which involve sharp transitions.
+
+Besov priors are well fitted for imaging since smooth functions with few local irregularities have a sparse expansion in the wavelet basis which is encouraged by the prior. The edge preservation of Besov priors can further be enhanced by introducing a new random variable T that takes values in the space of ‘trees’, and which is chosen so that the realisations have jumps only on a small set.
+
+**11:30 - 12:00: Spectro-Dynamic MRI by Alessandro Sbrizzi (University Medical Center Utrecht)**
+
+With the improvement of numerical inversion techniques,  model-based reconstruction approaches have penetrated and pervaded the world of Magnetic Resonance Imaging (MRI). In this talk, I present one of the most recent advances in this direction, namely the Spectro-Dynamic MRI technique.
+
+In Spectro Dynamic MRI, we leverage the fast sampling rate in the acquisition domain (Fourier space) to identify biomechanical systems at a millisecond temporal resolution. This is made possible by the interplay of ad-hoc designed spectral sampling schemes and PDE/ODE-based inversion techniques.
+
+The Spectro-Dynamic MRI framework can also be leveraged to learn phenomenological models from spectral data, which could shed new insights in the biomechanical behavior of tissue in dynamic conditions.
+
+**13.30 - 14.00: Analytic properties of heat equation solutions and reachable sets by Alden Waters (Leibniz Institute of Hannover, Faculty of Physics and Mathematics)**
+
+We consider heat equations on bounded Lipschitz domains in Rd and show that solutions to the heat equation for positive times are analytically extendable to a subdomain of the complex plane containing the set in question. Our analysis is based on the boundary layer potential method for the heat equation. In particular, our method gives an explanation for the shapes appearing in the literature in 1 dimension, which is not so easy to explain using Fourier analysis alone. The control theory/inverse problem has never been tackled in higher dimensions before.
+
+I will also discuss the converse theorem, namely that certain sets in the complex plane can be realized as solutions to the heat equation on the boundary of a ball. Boundary layer potential theory also gives an indication that this statement is more difficult if the domain is not a ball.  The main progress is the ability to "invert" the heat operator on a domain with inhomogeneous boundary conditions. This exciting new technique to analyze the question of reachable sets is joint work with Alexander Strohmaier.
+
+**14:00 - 14:30: Phase retrieval with multi-window Gaborframes by Palina Salanevic (Utrecht University)**
+
+In many signal processing problems arising in practical applications, we wish to reconstruct an unknown signal from its phaseless measurements with respect to a frame. This inverse problem is known as the phase retrieval problem. For each particular application, the set of relevant measurement frames is determined by the problem at hand, which motivates the study of phase retrieval for structured, application-relevant frames.
+
+In this talk, we focus on one class of such frames that appear naturally in diffraction imaging, ptychography, and audio processing, namely, multi-window Gabor frames. We will discuss injectivity of the phase retrieval problem with these measurement frames in the finite-dimensional setup and propose an explicit construction of an infinite family of phase retrievable multi-window Gabor frames.
+
+We will show that phase retrievability for the constructed frames can be achieved with a much smaller number of phaseless measurements compared to the previous results for this type of measurement frames. Additionally, we will show that the sufficient for reconstruction number of phaseless measurements depends on the dimension of the signal space, and not on the ambient dimension of the problem.
+
+**15.00 - 16.00: Keynote lecture by Bas van der Linden (Sioux Technologies & Eindhoven University of Technology)**
 
 <!--Include social share buttons-->
 
