@@ -9,7 +9,7 @@ image: "https://www.cwi.nl/images/44062/CWI_Algemeen_20_10_04-162_buitenk.5f68be
 #draft: true
 ---
 
-The meeting will take place on 30-31 October 2026 at CWI in Amsterdam. More details will follow.
+The meeting will take place on 29-30 October 2026 at CWI in Amsterdam. More details will follow.
 
 <!--Include social share buttons-->
 
