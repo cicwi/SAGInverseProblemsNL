@@ -37,10 +37,17 @@
 <p><strong>12:30 - 14:00: Lunch</strong></p>
 <p><strong>14:00 - 16:00: Lab tour</strong></p>
 <p><strong>16:00 - 18:00: Poster session and drinks</strong></p>
-<p><strong>18:30 - 20:00: Diner</strong></p>
+<p><strong>18:30 - 20:00: Dinner</strong></p>
 </section>
 <section id="friday" class="level3">
 <h3 class="anchored" data-anchor-id="friday">Friday</h3>
+<p><strong>09:30 – 10:30: Key note</strong> <strong>10:30 – 11:00: Coffee break</strong><br>
+<strong>11:00 – 12:30: Invited talks I</strong><br>
+<strong>12:30 – 13:30: Lunch break</strong><br>
+<strong>13:30 – 14:30: Invited talks II</strong><br>
+<strong>14:30 – 15:00: Coffee break</strong><br>
+<strong>15:00 – 16:00: Invited talks III</strong><br>
+<strong>16:00 – 17:00: Closing and drinks</strong></p>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -70,6 +77,15 @@ https://quarto.org/docs/authoring/includes.html
   <guid>https://cicwi.github.io/SAGInverseProblemsNL/</guid>
   <pubDate>Thu, 05 Mar 2026 23:00:00 GMT</pubDate>
   <media:content url="https://aimath.nl/wp-content/uploads/2024/04/AIM-logo-SVG-test-2.png" medium="image" type="image/png"/>
+</item>
+<item>
+  <title>AI x Astro Seminar Series</title>
+  <link>https://cicwi.github.io/SAGInverseProblemsNL/</link>
+  <description>Data-driven, digital, and dynamic radio astronomy - Jason Hessels (McGill University, UvA &amp; ASTRON)</description>
+  <category>news</category>
+  <guid>https://cicwi.github.io/SAGInverseProblemsNL/</guid>
+  <pubDate>Thu, 05 Mar 2026 23:00:00 GMT</pubDate>
+  <media:content url="https://www.aanda.org/images/stories/PressRelease/2025/202450953.jpg" medium="image" type="image/jpeg"/>
 </item>
 <item>
   <title>5th IMA Conference on Inverse Problems</title>
