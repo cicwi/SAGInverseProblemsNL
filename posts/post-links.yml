@@ -14,3 +14,10 @@
       description: "Annual workshop of the AIM initiative"
       date: "2026-03-06"
       categories: [news] 
+    - path: https://www.cwi.nl/en/research/computational-imaging/events/ai-x-astro-seminar-series/
+      image: "https://www.aanda.org/images/stories/PressRelease/2025/202450953.jpg"
+      title: "AI x Astro Seminar Series"
+      author: "T. van Leeuwen"
+      description: "Data-driven, digital, and dynamic radio astronomy - Jason Hessels (McGill University, UvA & ASTRON)"
+      date: "2026-03-06"
+      categories: [news]
