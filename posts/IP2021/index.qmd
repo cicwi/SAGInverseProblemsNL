@@ -4,7 +4,7 @@ description: "First Dutch Inverse Problems Meeting"
 author: "Event"
 date: "2021-11-25"
 categories: [event]
-image: "/files/images/placeholder2.JPG"
+image: "/files/images/IP2021.png"
 #css: /custom.css
 #draft: true
 ---

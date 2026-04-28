@@ -11,6 +11,30 @@ image: "https://www.cwi.nl/images/44062/CWI_Algemeen_20_10_04-162_buitenk.5f68be
 
 The meeting will take place on 29-30 October 2026 at CWI in Amsterdam. More details will follow.
 
+## Program
+
+### Thursday: Masterclass on numerical linear algebra for inverse problems
+
+**10:30 - 11:30: Masterclass part I - Krylov subspace methods for regularization in inverse problems by Maike Meier (RUG)** 
+
+Krylov subspace methods have long been used in inverse problems for iterative or Tikhonov regularization. Recently, there has been renewed attention for the applicability of these algorithms for more computationally challenging types of regularization as total variation. The linear algebraic interpretation of Krylov methods offer one big upside compared to standard optimization tools: the automatic determination of a regularization parameter via hybrid Krylov subspace methods. This talk will introduce these algorithms and demonstrate their performance on large-scale, 3D image reconstruction problems. Finally, we will shortly touch on the Bayesian interpretation and the use of Krylov methods for uncertainty quantification.
+
+**11:30 - 12:30: Masterclass part II - Numerical linear algebra in data assimilation by Jemima Tabeart (TU/e)** 
+
+Data assimilation methods are a particular class of inverse problem where prior information from a dynamical system is combined with observation information to obtain an improved estimate of the state at a given time. I will introduce the variational data assimilation problem, which gives rise to a nonlinear least squares problem. We will investigate how techniques from numerical linear algebra (different solvers, parallelisation, preconditioners) can be used to `solve' a high-dimensional ill-conditioned problem in a very short wallclock time.
+
+**12:30 - 14:00: Lunch**
+
+**14:00 - 16:00: Lab tour**
+
+**16:00 - 18:00: Poster session and drinks**
+
+**18:30 - 20:00: Diner**
+
+### Friday
+
+
+
 <!--Include social share buttons-->
 
 {{< include /files/includes/_socialshare.qmd >}}

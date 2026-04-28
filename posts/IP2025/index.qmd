@@ -4,7 +4,7 @@ description: "Fifth Dutch Inverse Problems Meeting"
 author: "Event"
 date: "2025-10-30"
 categories: [event]
-image: "/files/images/placeholder2.JPG"
+image: "/files/images/IP2025.jpg"
 #css: /custom.css
 #draft: true
 ---

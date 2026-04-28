@@ -4,7 +4,7 @@ description: "Second Dutch Inverse Problems Meeting"
 author: "Event"
 date: "2022-11-10"
 categories: [event]
-image: "/files/images/placeholder2.JPG"
+image: "/files/images/IP2022.jpg"
 #css: /custom.css
 #draft: true
 ---

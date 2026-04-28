@@ -26,6 +26,21 @@
 
 
 <p>The meeting will take place on 29-30 October 2026 at CWI in Amsterdam. More details will follow.</p>
+<section id="program" class="level2">
+<h2 class="anchored" data-anchor-id="program">Program</h2>
+<section id="thursday-masterclass-on-numerical-linear-algebra-for-inverse-problems" class="level3">
+<h3 class="anchored" data-anchor-id="thursday-masterclass-on-numerical-linear-algebra-for-inverse-problems">Thursday: Masterclass on numerical linear algebra for inverse problems</h3>
+<p><strong>10:30 - 11:30: Masterclass part I - Krylov subspace methods for regularization in inverse problems by Maike Meier (RUG)</strong></p>
+<p>Krylov subspace methods have long been used in inverse problems for iterative or Tikhonov regularization. Recently, there has been renewed attention for the applicability of these algorithms for more computationally challenging types of regularization as total variation. The linear algebraic interpretation of Krylov methods offer one big upside compared to standard optimization tools: the automatic determination of a regularization parameter via hybrid Krylov subspace methods. This talk will introduce these algorithms and demonstrate their performance on large-scale, 3D image reconstruction problems. Finally, we will shortly touch on the Bayesian interpretation and the use of Krylov methods for uncertainty quantification.</p>
+<p><strong>11:30 - 12:30: Masterclass part II - Numerical linear algebra in data assimilation by Jemima Tabeart (TU/e)</strong></p>
+<p>Data assimilation methods are a particular class of inverse problem where prior information from a dynamical system is combined with observation information to obtain an improved estimate of the state at a given time. I will introduce the variational data assimilation problem, which gives rise to a nonlinear least squares problem. We will investigate how techniques from numerical linear algebra (different solvers, parallelisation, preconditioners) can be used to `solve’ a high-dimensional ill-conditioned problem in a very short wallclock time.</p>
+<p><strong>12:30 - 14:00: Lunch</strong></p>
+<p><strong>14:00 - 16:00: Lab tour</strong></p>
+<p><strong>16:00 - 18:00: Poster session and drinks</strong></p>
+<p><strong>18:30 - 20:00: Diner</strong></p>
+</section>
+<section id="friday" class="level3">
+<h3 class="anchored" data-anchor-id="friday">Friday</h3>
 <!--Include social share buttons-->
 <!-- 
 AddToAny check more: https://www.addtoany.com/buttons/for/website 
@@ -38,6 +53,8 @@ https://quarto.org/docs/authoring/includes.html
 <script async="" src="https://static.addtoany.com/menu/page.js"></script>
 
 
+</section>
+</section>
 
  ]]></description>
   <category>event</category>

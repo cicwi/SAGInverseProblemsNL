@@ -4,7 +4,7 @@ description: "Third Dutch Inverse Problems Meeting"
 author: "Event"
 date: "2023-10-12"
 categories: [event]
-image: "/files/images/placeholder2.JPG"
+image: "/files/images/IP2023.jpg"
 #css: /custom.css
 #draft: true
 ---
