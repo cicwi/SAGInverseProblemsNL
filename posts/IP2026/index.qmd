@@ -29,11 +29,18 @@ Data assimilation methods are a particular class of inverse problem where prior 
 
 **16:00 - 18:00: Poster session and drinks**
 
-**18:30 - 20:00: Diner**
+**18:30 - 20:00: Dinner**
 
 ### Friday
 
-
+**09:30 – 10:30: Key note**
+**10:30 – 11:00: Coffee break**  
+**11:00 – 12:30: Invited talks I**   
+**12:30 – 13:30: Lunch break**   
+**13:30 – 14:30: Invited talks II**   
+**14:30 – 15:00: Coffee break**   
+**15:00 – 16:00: Invited talks III**   
+**16:00 – 17:00: Closing and drinks**   
 
 <!--Include social share buttons-->
 
