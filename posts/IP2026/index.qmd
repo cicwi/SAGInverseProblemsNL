@@ -9,7 +9,7 @@ image: "https://www.cwi.nl/images/44062/CWI_Algemeen_20_10_04-162_buitenk.5f68be
 #draft: true
 ---
 
-The meeting will take place on 29-30 October 2026 at CWI in Amsterdam. More details will follow.
+The meeting will take place on 29-30 October 2026 at CWI in Amsterdam. More details on the program will be added in due course. Registration will open soon. We expec that registration costs will be similar to last year (EUR 45 per day + 40 for dinner on Thursday).
 
 ## Program
 
@@ -33,13 +33,31 @@ Data assimilation methods are a particular class of inverse problem where prior 
 
 ### Friday
 
-**09:30 – 10:30: Key note**
+**09:30 – 10:30: Key note by Martin Benning (UCL London)**
+
+
 **10:30 – 11:00: Coffee break**  
-**11:00 – 12:30: Invited talks I**   
+
+**11:00 – 12:30: Invited talks I**
+
+- David Nolte (RUG) - Parameter estimation in coupled fluid-solid systems with application to cardiac biomechanics
+
+- Svetlana Dubinkina (VU) - TBA
+
+- Carlas Sierd Smith (TU Delft) - Super-resolution microscopy
+
 **12:30 – 13:30: Lunch break**   
-**13:30 – 14:30: Invited talks II**   
+
+**13:30 – 14:30: Invited talks II**
+
+- Emily Anne Frame (CWI) - Neutron imaging for cultural heritage
+
+- Victorita Dolean (TU/e) - Wave-based imaging
+
 **14:30 – 15:00: Coffee break**   
+
 **15:00 – 16:00: Invited talks III**   
+
 **16:00 – 17:00: Closing and drinks**   
 
 <!--Include social share buttons-->
