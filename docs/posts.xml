@@ -37,7 +37,7 @@
 <p><strong>12:30 - 14:00: Lunch</strong></p>
 <p><strong>14:00 - 16:00: Lab tour</strong></p>
 <p><strong>16:00 - 18:00: Poster session and drinks</strong></p>
-<p><strong>18:30 - 20:00: Dinner</strong></p>
+<p><strong>18:30 - 20:00: Dinner (at CWI)</strong></p>
 </section>
 <section id="friday" class="level3">
 <h3 class="anchored" data-anchor-id="friday">Friday</h3>
@@ -53,10 +53,14 @@
 <p><strong>13:30 – 14:30: Invited talks II</strong></p>
 <ul>
 <li><p>Emily Anne Frame (CWI) - Neutron imaging for cultural heritage</p></li>
-<li><p>Victorita Dolean (TU/e) - Wave-based imaging</p></li>
+<li><p>TBA</p></li>
 </ul>
 <p><strong>14:30 – 15:00: Coffee break</strong></p>
 <p><strong>15:00 – 16:00: Invited talks III</strong></p>
+<ul>
+<li><p>TBA</p></li>
+<li><p>TBA</p></li>
+</ul>
 <p><strong>16:00 – 17:00: Closing and drinks</strong></p>
 <hr>
 <p><strong>Martin Benning (UCL) - Mind the Gap - Bilevel Optimisation with Fenchel-Young Functions.</strong> Inverse problems are increasingly solved by combining physics-based variational models with data-driven parameter learning, but standard bilevel optimisation remains computationally demanding because each gradient step typically requires differentiating through an inner optimisation problem. This talk presents a Fenchel-Young perspective that replaces the classical bilevel loss with a gap-function objective, interpretable as a generalised duality gap and, under suitable conditions, as a Bregman distance. The resulting formulation preserves the core modelling structure of variational regularisation while yielding substantially simpler gradients, avoiding repeated solutions of adjoint and fixed-point equations. We will outline key theoretical links to constrained formulations (including Morozov- and Ivanov-type regularisation), discuss variational error estimates with convergence guarantees, and show how the framework extends from scalar to spatially varying regularisation parameters and infimal convolution regularisations. Numerical evidence in compressed sensing and imaging settings indicates comparable reconstruction quality to bilevel baselines at markedly lower computational cost. This is joint work with Alexandra Valavanis (Queen Mary University of London) and Clarice Poon (University of Warwick).</p>
