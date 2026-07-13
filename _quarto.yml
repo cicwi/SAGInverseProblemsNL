@@ -52,8 +52,6 @@ website:
           href: people.qmd
         - text: Links
           href: links.qmd
-        - icon: folder
-          href: https://surfdrive.surf.nl/s/tpMwSK4fHs8Hytq
       # - icon: rss
       #   href: posts.xml
       #   target: _blank
