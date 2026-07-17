@@ -51,7 +51,7 @@ Data assimilation methods are a particular class of inverse problem where prior 
 
 - Emily Anne Frame (CWI) - Neutron imaging for cultural heritage
 
-- TBA
+- Mark Peletier (TU Eindhoven) - TBA
 
 **14:30 – 15:00: Coffee break**   
 
