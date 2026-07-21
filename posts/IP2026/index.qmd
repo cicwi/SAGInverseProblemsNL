@@ -57,7 +57,7 @@ Data assimilation methods are a particular class of inverse problem where prior 
 
 **15:00 – 16:00: Invited talks III**   
 
-- Daan Pelt (Leiden U.) - TBA
+- Daan Pelt (Leiden U.) - Deep Learning for Cryo-EM imaging
 
 - TBA
 
